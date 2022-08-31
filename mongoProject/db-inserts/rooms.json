@@ -1,0 +1,104 @@
+[
+    {
+    "building" : "Main Departament of Information Technology and Cybernetics",
+    "building_shortcut" : "MITDC",
+	"room_ID": "13P",
+	"type": false,
+    "accessories":
+        [
+            {
+                "_id":"61e4be71a1b9513d4c531e1b",
+                "type":"workspace",
+                "amount":1
+            },
+            {
+                "_id":"61e4bae1a1b9513d4c531e08",
+                "type":"equipment",
+                "amount":2
+            },
+            {
+                "_id":"61e4bae1a1b9513d4c531e09",
+                "type":"equipment",
+                "amount":2
+            },
+            {
+                "_id":"61e4bae1a1b9513d4c531e06",
+                "type":"equipment",
+                "amount":6
+            }
+        ]
+    },
+    {
+    "building" : "Cathedral of Technical Computer Science",
+    "building_shortcut" : "CTCS",
+	"room_ID": "1408",
+	"type": true,
+    "accessories":
+        [
+            {
+                "_id":"61e4be71a1b9513d4c531e1b",
+                "type":"workspace",
+                "amount":1
+            },
+            {
+                "_id":"61e4bae1a1b9513d4c531e07",
+                "type":"equipment",
+                "amount":1
+            },
+            {
+                "_id":"61e4bae1a1b9513d4c531e06",
+                "type":"equipment",
+                "amount":4
+            },
+            {
+                "_id":"61e4be71a1b9513d4c531e15",
+                "type":"workspace",
+                "amount":3
+            },
+            {
+                "_id":"61e4be71a1b9513d4c531e17",
+                "type":"workspace",
+                "amount":9
+            }
+        ]
+    },
+    {
+    "building" : "Institute of Applied Computer Science",
+    "building_shortcut" : "IACS",
+	"room_ID": "1D",
+	"type": true,
+    "accessories":
+    [
+        {
+            "_id":"61e4be71a1b9513d4c531e1b",
+            "type":"workspace",
+            "amount":1
+        },
+        {
+            "_id":"61e4bae1a1b9513d4c531e08",
+            "type":"equipment",
+            "amount":1
+        },
+        {
+            "_id":"61e4bae1a1b9513d4c531e09",
+            "type":"equipment",
+            "amount":1
+        },
+        {
+            "_id":"61e4bae1a1b9513d4c531e06",
+            "type":"equipment",
+            "amount":3
+        },
+        {
+            "_id":"61e4be71a1b9513d4c531e19",
+            "type":"workspace",
+            "amount":8
+        },
+        {
+            "_id":"61e4be71a1b9513d4c531e18",
+            "type":"workspace",
+            "amount":8
+        }
+    ]
+    }
+]

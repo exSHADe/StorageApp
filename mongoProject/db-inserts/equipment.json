@@ -1,0 +1,92 @@
+[
+    {
+        "category":"security",
+        "name":"Camera EZVIZ C6N WIFI",
+        "description":"Rotating camera intended for indoor uses only.",
+        "price": 325.00
+    },
+    {
+        "category":"education",
+        "name":"Tnteractive Whiteboard AVTEK TT-BOARD 80",
+        "description":"Interactive whiteboard that can stream a computer screen with ability to manipulate a view by user.",
+        "price": 5849.00
+    },
+    {
+        "category":"education",
+        "name":"Projector Optoma HD146X",
+        "description":"Projector used for sharing screen without ability to managing a view. Require projection screns to share views properly.",
+        "price": 2249.00
+    },
+    {
+        "category":"education",
+        "name":"Electrical projection screen 330cm",
+        "description":"No information provided.",
+        "price": 1499.00
+    },
+    {
+        "category":"hardware",
+        "name":"Central Unit CU-G280TI",
+        "description":"Central unit with provided 2080TI graphic processor. GPU have 11GB of GDDR6 memory",
+        "price": 7524.00
+    },
+    {
+        "category":"hardware",
+        "name":"Central Unit CU-PRI916GB",
+        "description":"Central unit with provided processor from i9 family.",
+        "price": 5640.00
+    },
+    {
+        "category":"hardware",
+        "name":"Central Unit CU-N300HS",
+        "description":"Central unit designed for network managing task.",
+        "price": 2861.00
+    },
+    {
+        "category":"hardware",
+        "name":"Central Unit CU-S1FSTD",
+        "description":"Central unit personalized for standard user(student). Unit have restricted laws of usage and standard set of programs.",
+        "price": 420.00
+    },
+    {
+        "category":"hardware",
+        "name":"Central Unit CU-AD1CSTDR",
+        "description":"Central Unit for managing a room. Unit have possibility to managing another units and camera provided with room.",
+        "price": 2077.00
+    },
+    {
+        "category":"Peripheral device",
+        "name":"Mouse Logitech M90",
+        "description":"Wired mouse",
+        "price": 35.90
+    },
+    {
+        "category":"Peripheral device",
+        "name":"Mouse Gamenote MS1023",
+        "description":"Wired mouse with  additional side mouse button",
+        "price": 35.90
+    },
+    {
+        "category":"Peripheral device",
+        "name":"Keyboard Silver Monke",
+        "description":"Wired keyboard",
+        "price": 43.90
+    },
+    {
+        "category":"Peripheral device",
+        "name":"Keyboard Dell KB216",
+        "description":"Wired keyboard",
+        "price": 43.90
+    },
+    {
+        "category":"Peripheral device",
+        "name":"Monitor LG 29WP60G",
+        "description":"29-inch monitor with panoramic 21:9 format view. Work on 2560x1080 resolution.",
+        "price": 1100.00
+    },
+    {
+        "category":"Peripheral device",
+        "name":"Monitor LG 22MK400H-B",
+        "description":"21,5-inch monitor. Work on standard Full-HD resolution.",
+        "price": 579.00
+    }
+]

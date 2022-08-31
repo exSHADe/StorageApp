@@ -1,0 +1,3 @@
+{
+    "conncectionString":"mongodb+srv://pczAdministrator:admin@hardwaremanager.j7xol.mongodb.net/proj-pcz-db?retryWrites=true&w=majority"
+}
